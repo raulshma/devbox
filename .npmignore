@@ -1,0 +1,35 @@
+# Source files (we ship compiled dist)
+src/
+tests/
+test-results/
+playwright-report/
+
+# Config files
+tsconfig.json
+playwright.config.ts
+.eslintrc*
+.prettierrc*
+jest.config.*
+
+# Development files
+.git/
+.gitignore
+.vscode/
+.idea/
+*.log
+logs/
+
+# Build artifacts not needed
+*.map
+*.d.ts.map
+
+# Local development
+.automaker/
+.devtoolbox/
+plugins/
+
+# Documentation (optional - remove if you want docs in package)
+# docs/
+
+# Examples (optional - remove if you want examples in package)
+# examples/

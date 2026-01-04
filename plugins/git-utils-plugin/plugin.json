@@ -1,0 +1,8 @@
+{
+  "id": "git-utils",
+  "name": "Git Utils Plugin",
+  "version": "1.0.0",
+  "description": "Git utilities for common git operations",
+  "author": "Developer Toolbox",
+  "minVersion": "0.1.0"
+}

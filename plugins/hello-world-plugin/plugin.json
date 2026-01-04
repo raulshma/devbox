@@ -1,0 +1,8 @@
+{
+  "id": "hello-world",
+  "name": "Hello World Plugin",
+  "version": "1.0.0",
+  "description": "A simple example plugin that demonstrates the plugin system",
+  "author": "Developer Toolbox",
+  "minVersion": "0.1.0"
+}

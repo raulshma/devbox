@@ -1,0 +1,8 @@
+{
+  "id": "tool-registry-demo",
+  "name": "Tool Registry Demo Plugin",
+  "version": "1.0.0",
+  "description": "Demonstrates the tool registry system by registering example tools",
+  "author": "Developer Toolbox",
+  "minVersion": "0.1.0"
+}
